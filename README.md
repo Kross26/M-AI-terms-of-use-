@@ -1,8 +1,8 @@
 # M-AI-terms-of-use-
 TERMS OF USE
-Last updated: [Date]
+Last updated: 10-06-2025
 
-Welcome to [Your App Name]. By using this application, you agree to be bound by the following Terms of Use. If you do not agree with any part of these terms, please refrain from using the app.
+Welcome to M-AI. By using this application, you agree to be bound by the following Terms of Use. If you do not agree with any part of these terms, please refrain from using the app.
 
 1. Description of the App
 This application allows users to generate videos using artificial intelligence. We utilize third-party services such as Firebase for user authentication, data storage, and analytics.
@@ -20,7 +20,7 @@ You may sign in using your Google account via Firebase Authentication.
 You are responsible for maintaining the confidentiality and security of your account credentials.
 
 4. In-App Purchases
-The app offers in-app purchases (e.g., credits or coins to generate videos).
+The app offers in-app purchases.
 
 All purchases are final and non-refundable, except as required by applicable law or Google Play’s policies.
 
